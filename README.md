@@ -50,17 +50,9 @@ An intelligent resume analysis tool that:
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aocholshawilayoul&show_icons=true&theme=default" />
-</p>
-
----
-
 ## 📫 Let's Connect
 
-- 🌐 [LinkedIn](https://linkedin.com/in/your-link)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/aochol-ayoul-mojowok-654a7121a/)
 - 📧 Email: aocholayoul9@gmail.com
 
 ---
