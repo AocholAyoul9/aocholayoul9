@@ -31,6 +31,7 @@ I’m a dedicated full-stack developer who thrives on turning complex challenges
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 **Databases & Tools**  
+![PostgreSql](https://img.shields.io/badge/POSTGRESQL-00758F?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -38,15 +39,16 @@ I’m a dedicated full-stack developer who thrives on turning complex challenges
 
 ---
 
-## 📌 Featured Project
+## 🚀 What I’m Working On
 
-### 🧠 [AI Resume Analyzer](https://github.com/aocholshawilayoul/resume-analyzer)
+- 🧠 AI Resume Analyzer – A full-stack app that uses OpenAI + Apache Tika to give feedback on uploaded resumes (Spring Boot + Angular)
 
-An intelligent resume analysis tool that:
-- Accepts resume uploads
-- Extracts text with Apache Tika
-- Sends it to OpenAI for instant feedback
-- Built with **Spring Boot + Angular + OpenAI API**
+- 💻 Improving my Spring Boot & microservices skills
+
+- 📦 Learning Docker and CI/CD for deploying scalable apps
+
+## 💡 Fun Fact
+I’m passionate about using technology to solve real-world challenges and always eager to learn something new — whether it's a framework, an API, or an architectural pattern.
 
 ---
 
@@ -54,6 +56,7 @@ An intelligent resume analysis tool that:
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/aochol-ayoul-mojowok-654a7121a/)
 - 📧 Email: aocholayoul9@gmail.com
+- 📁 [Portfolio](https://aocholportfolio.netlify.app/)
 
 ---
 
