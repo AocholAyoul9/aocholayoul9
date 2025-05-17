@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aochol Ayoul</h1>
-<h3 align="center">Full-Stack Developer | Spring Boot | Angular | Node.js | React</h3>
+<h3 align="center">Aspiring Full-Stack Developer | Spring Boot | Angular | Java | Open to Internship Opportunities</h3>
 
 <p align="center">
   <a href="https://github.com/aocholshawilayoul">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate+about+clean+code;Lifelong+learner;Loves+Java+%26+JavaScript;Building+AI-powered+apps&center=true&width=500&height=45" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Currently+learning+Spring+Boot+and+Angular;Open+to+internships;Passionate+about+clean+code+and+real-world+apps;Lifelong+learner&center=true&width=600&height=45" />
   </a>
 </p>
 
@@ -11,12 +11,10 @@
 
 ## 👨‍💻 About Me
 
-I’m a dedicated full-stack developer who thrives on turning complex challenges into scalable, elegant solutions.
+I’m an aspiring full-stack developer with a strong interest in backend and frontend technologies.  
+Currently focusing on learning **Spring Boot**, **Angular**, and building real-world projects.
 
-🔧 Currently focusing on:
-- AI-powered applications using **Spring Boot + OpenAI**
-- Developing SPAs with **Angular** and **React**
-- Learning best practices in **microservices**, **Docker**, and **CI/CD**
+🎯 **Actively seeking internship opportunities** to apply my skills, grow with a team, and contribute to meaningful software.
 
 ---
 
@@ -39,16 +37,25 @@ I’m a dedicated full-stack developer who thrives on turning complex challenges
 
 ---
 
-## 🚀 What I’m Working On
+## 📌 What I’m Working On
 
-- 🧠 AI Resume Analyzer – A full-stack app that uses OpenAI + Apache Tika to give feedback on uploaded resumes (Spring Boot + Angular)
+- 🧠 **AI Resume Analyzer** – A full-stack app that uses OpenAI + Apache Tika to give resume feedback (Spring Boot + Angular)
+- 🧪 Building CRUD and authentication apps with Spring Security & JWT
+- 📦 Exploring Docker and CI/CD basics
 
-- 💻 Improving my Spring Boot & microservices skills
+---
 
-- 📦 Learning Docker and CI/CD for deploying scalable apps
+## 🎯 Goals for 2025
+
+- ✅ Complete internship with hands-on backend/frontend work
+- 🧰 Build 3–5 production-ready AI apps using Spring Boot, Angular, and OpenAI
+- 🧠 Deepen understanding of software architecture & design
+
+---
 
 ## 💡 Fun Fact
-I’m passionate about using technology to solve real-world challenges and always eager to learn something new — whether it's a framework, an API, or an architectural pattern.
+
+I love solving real-world problems with code and enjoy continuously learning — whether it’s a new framework, pattern, or dev tool.
 
 ---
 
@@ -60,5 +67,5 @@ I’m passionate about using technology to solve real-world challenges and alway
 
 ---
 
-_“Code is like humor. When you have to explain it, it’s bad.” — Cory House_
+> _“Code is like humor. When you have to explain it, it’s bad.” — Cory House_
 
