@@ -40,7 +40,7 @@ Currently focusing on learning **Spring Boot**, **Angular**, and building real-w
 ## 📌 What I’m Working On
 
 - 🧠 **AI Resume Analyzer** – A full-stack app that uses OpenAI + Apache Tika to give resume feedback (Spring Boot + Angular)
-- 🧪 Building CRUD and authentication apps with Spring Security & JWT
+- 🧪 Building Employee management system and authentication apps with Spring Security & JWT
 - 📦 Exploring Docker and CI/CD basics
 
 ---
