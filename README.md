@@ -57,7 +57,7 @@ Currently focusing on learning **Spring Boot**, **Angular**, and building real-w
 ## 🎯 Goals for 2025
 
 - ✅ Complete internship with hands-on backend/frontend work
-- 🧰 Build 3–5 production-ready AI apps using Spring Boot, Angular, and OpenAI
+- 🧰 Build 2–3 production-ready AI apps using Spring Boot, Angular, and OpenAI
 - 🧠 Deepen understanding of software architecture & design
 
 ---
