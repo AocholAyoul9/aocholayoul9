@@ -9,16 +9,16 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I’m an aspiring full-stack developer with a strong interest in backend and frontend technologies.  
 Currently focusing on learning **Spring Boot**, **Angular**, and building real-world projects.
 
-🎯 **Actively seeking internship opportunities** to apply my skills, grow with a team, and contribute to meaningful software.
+ **Actively seeking internship opportunities** to apply my skills, grow with a team, and contribute to meaningful software.
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 **Languages & Frameworks**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -46,29 +46,29 @@ Currently focusing on learning **Spring Boot**, **Angular**, and building real-w
 
 ---
 
-## 📌 What I’m Working On
+##  What I’m Working On
 
-- 🧠 **AI Resume Analyzer** – A full-stack app that uses OpenAI + Apache Tika to give resume feedback (Spring Boot + Angular)
-- 🧪 Building Employee management system and authentication apps with Spring Security & JWT
-- 📦 Exploring Docker and CI/CD basics
-
----
-
-## 🎯 Goals for 2025
-
-- ✅ Complete internship with hands-on backend/frontend work
-- 🧰 Build 2–3 production-ready AI apps using Spring Boot, Angular, and OpenAI
-- 🧠 Deepen understanding of software architecture & design
+-  **AI Resume Analyzer** – A full-stack app that uses OpenAI + Apache Tika to give resume feedback (Spring Boot + Angular)
+-  Building Employee management system and authentication apps with Spring Security & JWT
+-  Exploring Docker and CI/CD basics
 
 ---
 
-## 💡 Fun Fact
+##  Goals for 2025
+
+-  Complete internship with hands-on backend/frontend work
+-  Build 2–3 production-ready AI apps using Spring Boot, Angular, and OpenAI
+-  Deepen understanding of software architecture & design
+
+---
+
+## Fun Fact
 
 I love solving real-world problems with code and enjoy continuously learning — whether it’s a new framework, pattern, or dev tool.
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/aochol-ayoul-mojowok-654a7121a/)
 - 📧 Email: aocholayoul9@gmail.com
