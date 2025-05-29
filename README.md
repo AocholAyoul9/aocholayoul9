@@ -19,7 +19,7 @@
 ---
 
 ## 🌟 Why Work With Me?
-+ Full-stack: From React/Angular UIs to Spring Boot/NestJS backends
++ Full-stack: From React/Angular UIs to Spring Boot/NodJs(ExpressJs,NestJS) backends
 + Agile collaborator: Proven team player in Scrum environments who delivers quality
 + Solution-oriented: Passion for architecting efficient, user-centered applications
 + Continuous learner: Always expanding skills (currently mastering Docker & CI/CD)
