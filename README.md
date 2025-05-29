@@ -11,7 +11,7 @@
 - I'm a Full-Stack Developer passionate about creating performant, scalable web applications. Currently seeking a **3-weeks company/1-week school alternance** in Full-Stack Development to support my Bachelor in Application Design & Development. My goal is to join an innovative team where I can contribute to real-world projects while mastering advanced development concepts.
 ---
 
-**Education Journey**:
+## Education Journey**:
 - 🎓 Future Bachelor CDA student (Concepteur Développeur d'Applications)
 - 📚 Web/Mobile Developer Certification (AFPA - Bac+2)
 - 🏫 Computer Science Degree (Comboni College, Sudan)
