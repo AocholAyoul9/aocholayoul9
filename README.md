@@ -18,24 +18,10 @@ I'm a Full-Stack Developer passionate about creating performant, scalable web ap
 ---
 
 ## 🚀 What I Bring to Your Team
-<div>
-```mermaid
-graph LR
-    A[Full-Stack Skills] --> B[Front-End]
-    A --> C[Back-End]
-    A --> D[APIs & Databases]
-    A --> E[DevOps & Collaboration]
-    B --> F[React]
-    B --> G[Angular]
-    C --> H[Express]
-    C --> I[NestJS]
-    C --> J[Spring Boot]
-    D --> K[API Design]
-    D --> L[Database Mgmt]
-    D --> M[Docker]
-    E --> N[Agile/Scrum]
-    E --> O[CI/CD]
-    E --> P[Team Collaboration]
++ Front-End: React, Angular - Building responsive UIs with modern frameworks
++ Back-End: Express, NestJS, Spring Boot - Creating robust server-side solutions
++ APIs & Databases: API design, Database management, Docker - Architecting efficient data flows
++ DevOps & Collaboration: Agile/Scrum, CI/CD, Teamwork - Delivering quality in collaborative environments
 
 ---
 
@@ -104,5 +90,4 @@ graph LR
 - 📧 Email: aocholayoul9@gmail.com
 - 📁 [Portfolio](https://aocholportfolio.netlify.app/)
 
-</div>```
 
