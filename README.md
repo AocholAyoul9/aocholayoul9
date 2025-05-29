@@ -8,7 +8,6 @@
 ---
 
 ## 🎯 About Me & Alternance Goal
-```diff
 - I'm a Full-Stack Developer passionate about creating performant, scalable web applications. Currently seeking a **3-weeks company/1-week school alternance** in Full-Stack Development to support my Bachelor in Application Design & Development. My goal is to join an innovative team where I can contribute to real-world projects while mastering advanced development concepts.
 + Passionate full-stack developer seeking **3w company/1w school alternance** to apply my skills in Spring Boot, Angular, and React while pursuing my Bachelor in Application Design & Development. I aim to contribute to impactful projects and master advanced development concepts in a collaborative environment.
 
@@ -22,7 +21,6 @@
 ---
 
 ## 🌟 Why Work With Me?
-```diff
 + Full-stack fluency: From React/Angular UIs to Spring Boot/NestJS backends
 + Agile collaborator: Proven team player in Scrum environments who delivers quality
 + Solution-oriented: Passion for architecting efficient, user-centered applications
@@ -76,4 +74,5 @@
 - 📧 Email: aocholayoul9@gmail.com
 - 📁 [Portfolio](https://aocholportfolio.netlify.app/)
 
+---
 
