@@ -8,7 +8,11 @@
 ---
 
 ## 🎯 About Me & Alternance Goal
-I'm a Full-Stack Developer passionate about creating performant, scalable web applications. Currently seeking a **3-weeks company/1-week school alternance** in Full-Stack Development to support my Bachelor in Application Design & Development. My goal is to join an innovative team where I can contribute to real-world projects while mastering advanced development concepts.
+```diff
+- I'm a Full-Stack Developer passionate about creating performant, scalable web applications. Currently seeking a **3-weeks company/1-week school alternance** in Full-Stack Development to support my Bachelor in Application Design & Development. My goal is to join an innovative team where I can contribute to real-world projects while mastering advanced development concepts.
++ Passionate full-stack developer seeking **3w company/1w school alternance** to apply my skills in Spring Boot, Angular, and React while pursuing my Bachelor in Application Design & Development. I aim to contribute to impactful projects and master advanced development concepts in a collaborative environment.
+
+---
 
 **Education Journey**:
 - 🎓 Future Bachelor CDA student (Concepteur Développeur d'Applications)
@@ -17,48 +21,30 @@ I'm a Full-Stack Developer passionate about creating performant, scalable web ap
 
 ---
 
-## 🚀 What I Bring to Your Team
-+ Front-End: React, Angular - Building responsive UIs with modern frameworks
-+ Back-End: Express, NestJS, Spring Boot - Creating robust server-side solutions
-+ APIs & Databases: API design, Database management, Docker - Architecting efficient data flows
-+ DevOps & Collaboration: Agile/Scrum, CI/CD, Teamwork - Delivering quality in collaborative environments
-
----
-
 ## 🌟 Why Work With Me?
-+ Passion for clean, user-centered applications
-+ Quick learner with strong technical curiosity
-+ Proven team player in Agile/Scrum environments
-+ Fluent in both front-end and back-end development
-+ Autonomous yet collaborative working style
+```diff
++ Full-stack fluency: From React/Angular UIs to Spring Boot/NestJS backends
++ Agile collaborator: Proven team player in Scrum environments who delivers quality
++ Solution-oriented: Passion for architecting efficient, user-centered applications
++ Continuous learner: Always expanding skills (currently mastering Docker & CI/CD)
++ Autonomous contributor: Self-driven yet thrives in team environments
 
 ---
 
 ##  Tech Stack
+**Core Stack**  
+![Java](https://img.shields.io/badge/-Java-ED8B00?logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs)
 
-**Languages & Frameworks**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-**Databases, Tools & Methodologies**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+**Databases & Tools**  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-02569B?style=for-the-badge&logo=google-chrome&logoColor=white)
-
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git)
 
 ---
 
