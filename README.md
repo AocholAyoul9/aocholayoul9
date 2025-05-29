@@ -18,7 +18,7 @@ I'm a Full-Stack Developer passionate about creating performant, scalable web ap
 ---
 
 ## 🚀 What I Bring to Your Team
-<div align="center">
+<div>
 ```mermaid
 graph LR
     A[Full-Stack Value] --> B[Front-End • React • Angular]
@@ -82,6 +82,5 @@ graph LR
 - 📧 Email: aocholayoul9@gmail.com
 - 📁 [Portfolio](https://aocholportfolio.netlify.app/)
 
-```
-</div>
+</div>```
 
