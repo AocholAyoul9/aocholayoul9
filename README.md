@@ -9,8 +9,6 @@
 
 ## 🎯 About Me & Alternance Goal
 - I'm a Full-Stack Developer passionate about creating performant, scalable web applications. Currently seeking a **3-weeks company/1-week school alternance** in Full-Stack Development to support my Bachelor in Application Design & Development. My goal is to join an innovative team where I can contribute to real-world projects while mastering advanced development concepts.
-+ Passionate full-stack developer seeking **3w company/1w school alternance** to apply my skills in Spring Boot, Angular, and React while pursuing my Bachelor in Application Design & Development. I aim to contribute to impactful projects and master advanced development concepts in a collaborative environment.
-
 ---
 
 **Education Journey**:
@@ -21,7 +19,7 @@
 ---
 
 ## 🌟 Why Work With Me?
-+ Full-stack fluency: From React/Angular UIs to Spring Boot/NestJS backends
++ Full-stack: From React/Angular UIs to Spring Boot/NestJS backends
 + Agile collaborator: Proven team player in Scrum environments who delivers quality
 + Solution-oriented: Passion for architecting efficient, user-centered applications
 + Continuous learner: Always expanding skills (currently mastering Docker & CI/CD)
@@ -30,19 +28,28 @@
 ---
 
 ##  Tech Stack
-**Core Stack**  
+**Languages & Frameworks**  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs)
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=springboot&logoColor=white)
 
-**Databases & Tools**  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git)
+**Databases & DevOps**  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+
+**Tools & Methodologies**  
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white)
+![Agile](https://img.shields.io/badge/-Agile-0091D5?logo=agile&logoColor=white)
 
 ---
 
@@ -68,11 +75,10 @@
 
 ---
 
-## Let's Connect
+## 🤝 Connect for Alternance Opportunities
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/aochol-ayoul-mojowok-654a7121a/)
-- 📧 Email: aocholayoul9@gmail.com
-- 📁 [Portfolio](https://aocholportfolio.netlify.app/)
-
+- 🎨 [Portfolio](https://aocholportfolio.netlify.app/)
+- ✉️ [Email](mailto:aocholayoul9@gmail.com)
 ---
 
