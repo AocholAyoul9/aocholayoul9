@@ -1,4 +1,4 @@
-# 👋 Hello! I'm Shawila Youl, Full-Stack Developer seeking Alternance
+# 👋 Hello! I'm Aochol Ayoul, Full-Stack Developer seeking Alternance
 <p align="center">
   <a href="https://github.com/shawilayoul">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Seeking+3w/1w+alternance+in+Full-Stack;Spring+Boot+|+Angular+|+React+|+NestJS;Passionate+about+clean+code+and+user-centered+apps;Lifelong+learner+and+team+player&center=true&width=600&height=45" />
@@ -18,7 +18,7 @@ I'm a Full-Stack Developer passionate about creating performant, scalable web ap
 ---
 
 ## 🚀 What I Bring to Your Team
-
+<div align="center">
 ```mermaid
 graph LR
     A[Full-Stack Value] --> B[Front-End • React • Angular]
@@ -82,5 +82,6 @@ graph LR
 - 📧 Email: aocholayoul9@gmail.com
 - 📁 [Portfolio](https://aocholportfolio.netlify.app/)
 
----
+```
+</div>
 
