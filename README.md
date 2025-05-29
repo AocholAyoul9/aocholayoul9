@@ -1,22 +1,30 @@
-<h1 align="center">Hi 👋, I'm Aochol Ayoul</h1>
-<h3 align="center">Aspiring Full-Stack Developer | Spring Boot | Angular | Java | Open to Internship Opportunities</h3>
-
+# 👋 Hello! I'm Shawila Youl, Full-Stack Developer seeking Alternance
 <p align="center">
-  <a href="https://github.com/aocholshawilayoul">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Currently+learning+Spring+Boot+and+Angular;Open+to+internships;Passionate+about+clean+code+and+real-world+apps;Lifelong+learner&center=true&width=600&height=45" />
+  <a href="https://github.com/shawilayoul">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Seeking+3w/1w+alternance+in+Full-Stack;Spring+Boot+|+Angular+|+React+|+NestJS;Passionate+about+clean+code+and+user-centered+apps;Lifelong+learner+and+team+player&center=true&width=600&height=45" />
   </a>
 </p>
 
 ---
 
-## About Me
+## 🎯 About Me & Alternance Goal
+I'm a Full-Stack Developer passionate about creating performant, scalable web applications. Currently seeking a **3-weeks company/1-week school alternance** in Full-Stack Development to support my Bachelor in Application Design & Development. My goal is to join an innovative team where I can contribute to real-world projects while mastering advanced development concepts.
 
-I’m an aspiring full-stack developer with a strong interest in backend and frontend technologies.  
-Currently focusing on learning **Spring Boot**, **Angular**, and building real-world projects.
-
- **Actively seeking internship opportunities** to apply my skills, grow with a team, and contribute to meaningful software.
+**Education Journey**:
+- 🎓 Future Bachelor CDA student (Concepteur Développeur d'Applications)
+- 📚 Web/Mobile Developer Certification (AFPA - Bac+2)
+- 🏫 Computer Science Degree (Comboni College, Sudan)
 
 ---
+
+## 🚀 What I Bring to Your Team
+
+```mermaid
+graph LR
+    A[Full-Stack Value] --> B[Front-End • React • Angular]
+    A --> C[Back-End • Express • NestJS • Spring Boot]
+    A --> D[API Design • Database Mgmt • Docker]
+    A --> E[Agile/Scrum • CI/CD • Team Collaboration]
 
 ##  Tech Stack
 
@@ -56,15 +64,15 @@ Currently focusing on learning **Spring Boot**, **Angular**, and building real-w
 
 ##  Goals for 2025
 
--  Complete internship with hands-on backend/frontend work
--  Build 2–3 production-ready AI apps using Spring Boot, Angular, and OpenAI
--  Deepen understanding of software architecture & design
+- Secure meaningful alternance with hands-on full-stack experience
 
----
+ - Master advanced Spring Boot and Angular concepts
 
-## Fun Fact
+- Build 3 production-ready applications
 
-I love solving real-world problems with code and enjoy continuously learning — whether it’s a new framework, pattern, or dev tool.
+- Contribute to open-source projects
+
+- Develop expertise in cloud technologies (AWS/Azure)
 
 ---
 
@@ -75,6 +83,4 @@ I love solving real-world problems with code and enjoy continuously learning —
 - 📁 [Portfolio](https://aocholportfolio.netlify.app/)
 
 ---
-
-> _“Code is like humor. When you have to explain it, it’s bad.” — Cory House_
 
