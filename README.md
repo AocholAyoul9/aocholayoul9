@@ -21,10 +21,32 @@ I'm a Full-Stack Developer passionate about creating performant, scalable web ap
 <div>
 ```mermaid
 graph LR
-    A[Full-Stack Value] --> B[Front-End • React • Angular]
-    A --> C[Back-End • Express • NestJS • Spring Boot]
-    A --> D[API Design • Database Mgmt • Docker]
-    A --> E[Agile/Scrum • CI/CD • Team Collaboration]
+    A[Full-Stack Skills] --> B[Front-End]
+    A --> C[Back-End]
+    A --> D[APIs & Databases]
+    A --> E[DevOps & Collaboration]
+    B --> F[React]
+    B --> G[Angular]
+    C --> H[Express]
+    C --> I[NestJS]
+    C --> J[Spring Boot]
+    D --> K[API Design]
+    D --> L[Database Mgmt]
+    D --> M[Docker]
+    E --> N[Agile/Scrum]
+    E --> O[CI/CD]
+    E --> P[Team Collaboration]
+
+---
+
+## 🌟 Why Work With Me?
++ Passion for clean, user-centered applications
++ Quick learner with strong technical curiosity
++ Proven team player in Agile/Scrum environments
++ Fluent in both front-end and back-end development
++ Autonomous yet collaborative working style
+
+---
 
 ##  Tech Stack
 
@@ -59,7 +81,7 @@ graph LR
 -  **AI Resume Analyzer** – A full-stack app that uses OpenAI + Apache Tika to give resume feedback (Spring Boot + Angular)
 -  Building Employee management system and authentication apps with Spring Security & JWT
 -  Exploring Docker and CI/CD basics
-
+  
 ---
 
 ##  Goals for 2025
