@@ -7,18 +7,18 @@
 
 ---
 
-## 👋 About Me
+## About Me
 I'm currently training as an Application Designer & Developer at M2i Formation, and I'm actively seeking an unpaid internship from January 26 to June 1, 2026, in Lyon and surrounding areas.
 As a passionate Full-Stack Developer, I’m excited about building high-performance applications and working on impactful, real-world projects. My goal is to apply and expand my skills in a collaborative, innovative development team.
 
 ---
 
 ### 🧠 Soft Skills
-- Technological Curiosity ♾️
+-  ♾️ Technological Curiosity
+- 
+- ✔️ Strong Autonomy 
 
-- Strong Autonomy ✔️
-
-- Team Spirit 🤝
+- 🤝 Team Spirit 
   
 ----
 
@@ -73,7 +73,7 @@ As a passionate Full-Stack Developer, I’m excited about building high-performa
 ##  🚧 Currently working on:
 
 A SaaS platform for home cleaning service companies — focusing on business logic, user interface, and API integration.
-Techno :Spring boot and Angular
+***Tech*** Spring boot and Angular
 
 ---
 
