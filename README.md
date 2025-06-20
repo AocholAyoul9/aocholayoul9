@@ -1,4 +1,4 @@
-# 👋 Hello! I'm Aochol, Full-Stack Developer seeking an unpaid internship,
+# 👋 Hello! I'm Aochol, Full-Stack Developer
 <p align="center">
   <a href="https://github.com/shawilayoul">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=seeking+an+unpaid+internship+in+Full-Stack;JavaScript+React+|+NodJs+|+Spring+Boot+|+Angular+|;Passionate+about+clean+code+and+user-centered+apps;Lifelong+learner+and+team+player&center=true&width=600&height=45" />
@@ -23,15 +23,15 @@ As a passionate Full-Stack Developer, I’m excited about building high-performa
 ----
 
 ## Education Journey:
-- 🎓 Application Designer & Developer (In Progress) – M2i Formation
+- 🎓 Application Designer & Developer (In Progress) – M2i Formation - 06/2025 - 06/2026
 
-- 🎓 Web/Mobile Developer – AFPA (Bac+2)
+- 🎓 Web/Mobile Developer – AFPA (Bac+2) - 04/2024 - 02/2025
 
-- 📱 Apple Foundation Program – iOS Mobile Dev, Simplon Lyon
+- 📱 Apple Foundation Program – iOS Mobile Dev, Simplon Lyon 11/2023 - 12/2023
 
-- 🌐 Objective Numérique (WordPress) – Simplon Lyon
+- 🌐 Objective Numérique (WordPress) – Simplon Lyon 05/2023 - 07/2023
 
-- 💻 Diploma in Computer Science – Comboni College, Sudan
+- 💻 Diploma in Computer Science – Comboni College, Sudan 2018 - 2020
 
 ---
 
@@ -73,6 +73,7 @@ As a passionate Full-Stack Developer, I’m excited about building high-performa
 ##  🚧 Currently working on:
 
 A SaaS platform for home cleaning service companies — focusing on business logic, user interface, and API integration.
+Techno :Spring boot and Angular
 
 ---
 
