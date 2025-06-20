@@ -1,4 +1,4 @@
-# 👋 Hello! I'm Aochol Ayoul, Full-Stack Developer seeking Alternance
+# 👋 Hello! I'm Aochol Ayoul, Full-Stack Developer seeking an unpaid internship from January 26 to June 1, 2026,
 <p align="center">
   <a href="https://github.com/shawilayoul">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Seeking+3w/1w+alternance+in+Full-Stack;JavaScript+React+|+NodJs+|+Spring+Boot+|+Angular+|;Passionate+about+clean+code+and+user-centered+apps;Lifelong+learner+and+team+player&center=true&width=600&height=45" />
@@ -7,14 +7,31 @@
 
 ---
 
-## 🎯 About Me & Alternance Goal
-- I'm a Full-Stack Developer passionate about creating performant, scalable web applications. Currently seeking a **3-weeks company/1-week school alternance** in Full-Stack Development to support my Bachelor in Application Design & Development. My goal is to join an innovative team where I can contribute to real-world projects while mastering advanced development concepts.
+## 👋 About Me
+I'm currently training as an Application Designer & Developer at M2i Formation, and I'm actively seeking an unpaid internship from January 26 to June 1, 2026, in Lyon and surrounding areas.
+As a passionate Full-Stack Developer, I’m excited about building high-performance applications and working on impactful, real-world projects. My goal is to apply and expand my skills in a collaborative, innovative development team.
+
 ---
 
+### 🧠 Soft Skills
+- Technological Curiosity ♾️
+
+- Strong Autonomy ✔️
+
+- Team Spirit 🤝
+  
+----
+
 ## Education Journey:
-- 🎓 Future Bachelor CDA student (Concepteur Développeur d'Applications)
-- 📚 Web/Mobile Developer Certification (AFPA - Bac+2)
-- 🏫 Computer Science Degree (Comboni College, Sudan)
+- 🎓 Application Designer & Developer (In Progress) – M2i Formation
+
+- 🎓 Web/Mobile Developer – AFPA (Bac+2)
+
+- 📱 Apple Foundation Program – iOS Mobile Dev, Simplon Lyon
+
+- 🌐 Objective Numérique (WordPress) – Simplon Lyon
+
+- 💻 Diploma in Computer Science – Comboni College, Sudan
 
 ---
 
@@ -53,17 +70,13 @@
 
 ---
 
-##  What I’m Working On
+##  🚧 Currently working on:
 
--  **AI Resume Analyzer** – A full-stack app that uses OpenAI + Apache Tika to give resume feedback (Spring Boot + Angular)
--  Building Employee management system and authentication apps with Spring Security & JWT
--  Exploring Docker and CI/CD basics
-  
+A SaaS platform for home cleaning service companies — focusing on business logic, user interface, and API integration.
+
 ---
 
 ##  Goals for 2025
-
-- Secure meaningful alternance with hands-on full-stack experience
 
  - Master advanced Spring Boot and Angular concepts
 
