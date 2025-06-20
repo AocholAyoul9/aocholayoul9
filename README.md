@@ -15,7 +15,7 @@ As a passionate Full-Stack Developer, I’m excited about building high-performa
 
 ### 🧠 Soft Skills
 -  ♾️ Technological Curiosity
-- 
+  
 - ✔️ Strong Autonomy 
 
 - 🤝 Team Spirit 
