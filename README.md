@@ -1,4 +1,4 @@
-# 👋 Hello! I'm Aochol Ayoul, Full-Stack Developer seeking an unpaid internship,
+# 👋 Hello! I'm Aochol, Full-Stack Developer seeking an unpaid internship,
 <p align="center">
   <a href="https://github.com/shawilayoul">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Seeking+3w/1w+alternance+in+Full-Stack;JavaScript+React+|+NodJs+|+Spring+Boot+|+Angular+|;Passionate+about+clean+code+and+user-centered+apps;Lifelong+learner+and+team+player&center=true&width=600&height=45" />
