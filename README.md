@@ -1,4 +1,4 @@
-# 👋 Hello! I'm Aochol Ayoul, Full-Stack Developer seeking an unpaid internship from January 26 to June 1, 2026,
+# 👋 Hello! I'm Aochol Ayoul, Full-Stack Developer seeking an unpaid internship,
 <p align="center">
   <a href="https://github.com/shawilayoul">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Seeking+3w/1w+alternance+in+Full-Stack;JavaScript+React+|+NodJs+|+Spring+Boot+|+Angular+|;Passionate+about+clean+code+and+user-centered+apps;Lifelong+learner+and+team+player&center=true&width=600&height=45" />
@@ -88,10 +88,13 @@ A SaaS platform for home cleaning service companies — focusing on business log
 
 ---
 
-## 🤝 Connect for Alternance Opportunities
+## 📫 Let’s Connect!
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/aochol-ayoul-mojowok-654a7121a/)
 - 🎨 [Portfolio](https://aocholportfolio.netlify.app/)
 - ✉️ [Email](mailto:aocholayoul9@gmail.com)
+
+ ***If you're looking for a motivated intern to contribute to your team from January to June 2026, feel free to reach out!***
+
 ---
 
