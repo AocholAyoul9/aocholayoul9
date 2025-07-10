@@ -13,29 +13,29 @@ As a passionate Full-Stack Developer, I’m excited about building high-performa
 
 ---
 
-### 🧠 Soft Skills
--  ♾️ Technological Curiosity
+### Soft Skills
+-  Technological Curiosity
   
-- ✔️ Strong Autonomy 
+-  Strong Autonomy 
 
-- 🤝 Team Spirit 
+-  Team Spirit 
   
 ----
 
 ## Education Journey:
-- 🎓 Application Designer & Developer (In Progress) – M2i Formation - 06/2025 - 06/2026
+-  Application Designer & Developer (In Progress) – M2i Formation - 06/2025 - 06/2026
 
-- 🎓 Web/Mobile Developer – AFPA (Bac+2) - 04/2024 - 02/2025
+-  Web/Mobile Developer – AFPA (Bac+2) - 04/2024 - 02/2025
 
-- 📱 Apple Foundation Program – iOS Mobile Dev, Simplon Lyon 11/2023 - 12/2023
+-  Apple Foundation Program – iOS Mobile Dev, Simplon Lyon 11/2023 - 12/2023
 
-- 🌐 Objective Numérique (WordPress) – Simplon Lyon 05/2023 - 07/2023
+-  Objective Numérique (WordPress) – Simplon Lyon 05/2023 - 07/2023
 
-- 💻 Diploma in Computer Science – Comboni College, Sudan 2018 - 2020
+-  Diploma in Computer Science – Comboni College, Sudan 2018 - 2020
 
 ---
 
-## 🌟 Why Work With Me?
+##  Why Work With Me?
 + Full-stack: From React/Angular UIs to Spring Boot/NodJs(ExpressJs,NestJS) backends
 + Agile collaborator: Proven team player in Scrum environments who delivers quality
 + Solution-oriented: Passion for architecting efficient, user-centered applications
@@ -70,7 +70,7 @@ As a passionate Full-Stack Developer, I’m excited about building high-performa
 
 ---
 
-##  🚧 Currently working on:
+## Currently working on:
 
 A SaaS platform for home cleaning service companies — focusing on business logic, user interface, and API integration.
 ***Tech*** Spring boot and Angular
