@@ -1,9 +1,6 @@
 # 👋 Bonjour ! Je suis Aochol, Développeur Full-Stack
-<p align="center">
-  <a href="https://github.com/shawilayoul">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=seeking+an+unpaid+internship+in+Full-Stack;JavaScript+React+|+NodJs+|+Spring+Boot+|+Angular+|;Passionate+about+clean+code+and+user-centered+apps;Lifelong+learner+and+team+player&center=true&width=600&height=45" />
-  </a>
-</p>
+
+Stage Full-Stack recherché | Java,Spring Boot, Angular, JS, React, Node.js | Passionné par le code propre et les apps centrées utilisateur
 
 ---
 
