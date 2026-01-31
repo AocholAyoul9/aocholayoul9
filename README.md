@@ -1,14 +1,16 @@
-# 👋 Bonjour ! Je suis Aochol, Développeur Full-Stack
 
-Stage Full-Stack recherché | Java,Spring Boot, Angular, JS, React, Node.js | Passionné par le code propre et les apps centrées utilisateur
+👋 Hi, I’m Aochol Ayoul
+💻 Développeur Full Stack Web & Mobile
 
----
+📍 Lyon & périphérie
 
-## À propos de moi
-Je suis actuellement en formation "Concepteur Développeur d’Applications" chez M2i Formation, et je suis activement à la recherche d’un stage non rémunéré du 26 janvier au 1er juin 2026, à Lyon et ses environs.
-En tant que développeur Full-Stack passionné, je suis motivé par la création d’applications performantes et l’envie de travailler sur des projets concrets et porteurs de sens.
-Mon objectif est de mettre en pratique et de renforcer mes compétences au sein d’une équipe de développement collaborative et innovante.
+💼 Ouvert aux opportunités CDI / CDD
 
+# À propos de moi
+Développeur logiciel Full Stack Web & Mobile, je travaille actuellement chez ReeBoot en tant que stagiaire, où je participe au développement de solutions applicatives modernes, de la conception à la mise en production.
+
+Formé au développement Front-End & Back-End, je conçois des applications robustes et évolutives avec une attention particulière portée à la qualité du code, à la performance et à l’impact métier.
+Je suis actuellement à la recherche d’un poste en CDI ou CDD en tant que développeur logiciel / full stack, au sein d’une équipe technique dynamique.
 ---
 
 ### Soft Skills
