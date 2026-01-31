@@ -1,6 +1,7 @@
 
 👋 Hi, I’m Aochol Ayoul
-Développeur Full Stack Web & Mobile
+
+# Développeur Full Stack Web & Mobile
 
 📍 Lyon & périphérie
 
@@ -87,8 +88,4 @@ Une plateforme SaaS dédiée aux entreprises de services de ménage — avec un 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/aochol-ayoul-mojowok-654a7121a/)
 - 🎨 [Portfolio](https://aocholportfolio.netlify.app/)
 - ✉️ aocholayoul9@gmail.com
-
- ***Si vous recherchez un stagiaire motivé pour rejoindre votre équipe entre janvier et juin 2026, n’hésitez pas à me contacter !***
-
----
 
