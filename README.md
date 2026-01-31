@@ -80,19 +80,7 @@ Je suis actuellement à la recherche d’un poste en CDI ou CDD en tant que dév
 Une plateforme SaaS dédiée aux entreprises de services de ménage — avec un focus sur la logique métier, l’interface utilisateur et l’intégration d’API.
 **Technos utilisées** : Spring Boot et Angular
 
----
-
-##  Objectifs pour 2025
-
-- Maîtriser les concepts avancés de Spring Boot et Angular
-
-- Développer 3 applications prêtes pour la production
-
-- Contribuer à des projets open-source
-
-- Acquérir de l’expertise en technologies cloud (AWS / Azure)
-
----
+-----
 
 ## Entrons en contact !
 
