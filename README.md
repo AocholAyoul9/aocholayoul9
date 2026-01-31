@@ -1,6 +1,6 @@
 
 👋 Hi, I’m Aochol Ayoul
-💻 Développeur Full Stack Web & Mobile
+Développeur Full Stack Web & Mobile
 
 📍 Lyon & périphérie
 
@@ -11,6 +11,7 @@ Développeur logiciel Full Stack Web & Mobile, je travaille actuellement chez Re
 
 Formé au développement Front-End & Back-End, je conçois des applications robustes et évolutives avec une attention particulière portée à la qualité du code, à la performance et à l’impact métier.
 Je suis actuellement à la recherche d’un poste en CDI ou CDD en tant que développeur logiciel / full stack, au sein d’une équipe technique dynamique.
+
 ---
 
 ### Soft Skills
