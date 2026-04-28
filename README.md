@@ -1,4 +1,4 @@
-# 👋 Développeur Full-Stack | Fondateur de ShawilTech
+# Développeur Full-Stack | Fondateur de ShawilTech
 
 Développeur Full-Stack Web & Mobile, spécialisé dans la création de solutions digitales modernes, rapides et évolutives.  
 Fondateur de **ShawilTech**, une structure dédiée au développement de sites web et d’applications sur mesure pour les entreprises et entrepreneurs.
