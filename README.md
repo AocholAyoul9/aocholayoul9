@@ -38,13 +38,6 @@ ShawilTech accompagne les entreprises, startups et indépendants dans la créati
 
 ---
 
-## Projets
-
-👉 Portfolio : https://aocholportfolio.netlify.app/  
-👉 GitHub : https://github.com/AocholAyoul9  
-
----
-
 ## Collaboration
 
 Ouvert aux missions freelance, collaborations et partenariats.
