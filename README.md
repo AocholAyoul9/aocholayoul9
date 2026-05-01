@@ -21,7 +21,7 @@ Building scalable web & mobile applications<br/>
 - Admin dashboard for content management  
 
 **Tech:** React Native, NestJS, Firebase, MongoDB  
-👉 [Live Demo](https://play.google.com/store/apps/details?id=com.fjuchristianvibes) | [Source Code](#)
+👉 [Live Demo](https://play.google.com/store/apps/details?id=com.fjuchristianvibes) | [Source Code](https://github.com/AocholAyoul9/VibeplayAdminDashboard)
 
 ---
 
@@ -34,7 +34,7 @@ Building scalable web & mobile applications<br/>
 - Responsive modern UI  
 
 **Tech:** React, Node.js, MongoDB, Firebase  
-👉 [Live Demo](https://sleekstyle.onrender.com/) | [Source Code](#)
+👉 [Live Demo](https://sleekstyle.onrender.com/) | [Source Code](https://github.com/AocholAyoul9/sleekStyles)
 
 ---
 
@@ -47,7 +47,7 @@ Building scalable web & mobile applications<br/>
 - User interaction system  
 
 **Tech:** Angular, Spring Boot, MongoDB  
-👉 [Live Demo](https://ss-community-fr.netlify.app/) | [Source Code](#)
+👉 [Live Demo](https://ss-community-fr.netlify.app/) | [Source Code](https://github.com/AocholAyoul9/ss-cmmunity-france)
 
 ---
 
@@ -60,7 +60,7 @@ Building scalable web & mobile applications<br/>
 - Fully responsive  
 
 **Tech:** Angular, Tailwind CSS  
-👉 [Live Demo](https://kangiart.fr/) | [Source Code](#)
+👉 [Live Demo](https://kangiart.fr/) | [Source Code](https://github.com/AocholAyoul9/kangiart)
 
 ---
 
