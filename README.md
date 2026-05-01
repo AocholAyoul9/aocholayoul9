@@ -10,9 +10,9 @@ Building scalable web & mobile applications<br/>
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🎧 Music Streaming App
+###  Music Streaming App
 
 > Mobile app for real-time music streaming with admin dashboard
 
@@ -25,7 +25,7 @@ Building scalable web & mobile applications<br/>
 
 ---
 
-### 🛒 SleekStyle – E-commerce Platform
+###  SleekStyle – E-commerce Platform
 
 > Full-featured e-commerce platform
 
@@ -38,7 +38,7 @@ Building scalable web & mobile applications<br/>
 
 ---
 
-### 🌍 Community Platform
+###  Community Platform
 
 > Platform for community interaction & events
 
@@ -51,7 +51,7 @@ Building scalable web & mobile applications<br/>
 
 ---
 
-### 🎨 KangiArt – Artist Portfolio
+###  KangiArt – Artist Portfolio
 
 > Clean and modern portfolio website
 
@@ -64,7 +64,7 @@ Building scalable web & mobile applications<br/>
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react,angular,nodejs,nestjs,spring,mongodb,firebase,docker,git,tailwind" />
@@ -72,7 +72,7 @@ Building scalable web & mobile applications<br/>
 
 ---
 
-## 💡 What I Bring
+##  What I Bring
 
 - Full-stack development (frontend + backend)  
 - Scalable and maintainable architecture  
@@ -81,7 +81,7 @@ Building scalable web & mobile applications<br/>
 
 ---
 
-## 🤝 Let's Work Together
+##  Let's Work Together
 
 💼 Open to:
 - Freelance projects  
@@ -92,7 +92,7 @@ Building scalable web & mobile applications<br/>
 
 ---
 
-## 🌍 Languages
+##  Languages
 
 🇫🇷 French • 🇬🇧 English • 🇸🇦 Arabic  
 
