@@ -1,49 +1,129 @@
-# Développeur Full-Stack | Fondateur de ShawilTech
+<!-- HEADER -->
 
-Développeur Full-Stack Web & Mobile, spécialisé dans la création de solutions digitales modernes, rapides et évolutives.  
-Fondateur de **ShawilTech**, une structure dédiée au développement de sites web et d’applications sur mesure pour les entreprises et entrepreneurs.
+<h1 align="center">Hi , I'm Aochol</h1>
+<h3 align="center">Full-Stack Developer | Founder of ShawilTech</h3>
 
----
-
-## Ce que je fais
-
-- Développement de sites web modernes et responsives  
-- Création d’applications web et mobiles  
-- Conception et intégration d’API REST  
-- Développement backend et frontend complet  
-- Optimisation des performances et de l’expérience utilisateur  
+<p align="center">
+ Building scalable web & mobile applications<br/>
+🇫🇷 Based in France • Open to freelance & collaborations
+</p>
 
 ---
 
-## Stack technique
+##  About Me
 
-**Frontend :** React, Angular  
-**Backend :** Node.js (Express, NestJS), Java (Spring Boot), Strapi  
-**Bases de données :** SQL, NoSQL  
-**DevOps :** Docker, Git  
-**Méthodes :** Agile / Scrum  
-
----
-
-## Objectif
-
-Créer des solutions simples, rapides et efficaces qui apportent une vraie valeur métier :  
-plus de visibilité, plus de performance et plus de clients.
+*  Full-Stack Developer (Web & Mobile)
+*  Founder of **ShawilTech**
+*  Focus: performance, scalability & clean architecture
+*  I build real-world applications with business impact
 
 ---
 
-## ShawilTech
+## Featured Projects
 
-ShawilTech accompagne les entreprises, startups et indépendants dans la création de produits digitaux performants et adaptés à leurs besoins.
+### Music Streaming App
+
+> Mobile app for real-time music streaming with admin dashboard
+
+* Real-time audio streaming
+* User authentication & playlists
+* Admin dashboard for content management
+
+**Tech:** React Native, NestJS, Firebase, MongoDB
+👉 [Live Demo](https://play.google.com/store/apps/details?id=com.fjuchristianvibes) | [Source Code](#)
 
 ---
 
-## Collaboration
+### SleekStyle – E-commerce Platform
 
-Ouvert aux missions freelance, collaborations et partenariats.
+> Full-featured e-commerce platform
+
+*  Product & order management
+*  Secure payment integration
+*  Responsive modern UI
+
+**Tech:** React, Node.js, MongoDB, Firebase
+👉 [Live Demo](https://sleekstyle.onrender.com/) | [Source Code](#)
 
 ---
 
-## Langues
+### Community Platform
 
-Français • Anglais • Arabe
+> Platform for community interaction & events
+
+* News & content sharing
+* Event management
+* User interaction system
+
+**Tech:** Angular, Spring Boot, MongoDB
+👉 [Live Demo](https://ss-community-fr.netlify.app/) | [Source Code]()
+
+---
+
+### KangiArt – Artist Portfolio
+
+> Clean and modern portfolio website
+
+* Elegant UI/UX
+* Optimized performance
+* Fully responsive
+
+**Tech:** Angular, Tailwind CSS
+👉 [Live Demo](https://kangiart.fr/) | [Source Code](#)
+
+---
+
+## Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,angular,nodejs,nestjs,spring,mongodb,firebase,docker,git,tailwind" />
+
+</p>
+
+---
+
+## GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+##  What I Bring
+
+* Full-stack development (frontend + backend)
+* Scalable and maintainable architecture
+* REST API design & integration
+* Business-focused solutions
+
+---
+
+## Let's Work Together
+
+💼 Open to:
+
+* Freelance projects
+* Startup collaborations
+* Technical partnerships
+
+ Contact: [aocholayoul9@email.com](mailto:aocholayoul9@email.com)
+
+---
+
+##  Languages
+
+🇫🇷 French • 🇬🇧 English • 🇸🇦 Arabic
+
+---
+
+<p align="center">
+"Building solutions that make an impact"
+</p>
+
+
+
+
+
