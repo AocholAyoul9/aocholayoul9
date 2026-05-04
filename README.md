@@ -3,7 +3,7 @@
 <h1 align="center">Full-Stack Developer</h1>
 
 <h3 align="center">
-React & Spring Boot | Building scalable web applications & APIs
+Angular & Spring Boot | Building scalable web applications & APIs
 </h3>
 
 <p align="center">
