@@ -1,11 +1,13 @@
 <!-- HEADER -->
 
-<h1 align="center">Hi, I'm Aochol</h1>
-<h3 align="center">Full-Stack Developer | Founder of ShawilTech</h3>
+<h1 align="center">Full-Stack Developer</h1>
+
+<h3 align="center">
+React & Spring Boot | Building scalable web applications & APIs
+</h3>
 
 <p align="center">
-Building scalable web & mobile applications<br/>
-🇫🇷 Based in France • Open to freelance & collaborations
+🇫🇷 Based in France • Open to Freelance & Full-time opportunities
 </p>
 
 ---
